@@ -1,0 +1,30 @@
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\Ahmed Khaled\Desktop\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+D:\Route\Material\ASP.NET\Workshops\2-C#\C# Workshop(Eng Ahmed Khaled)\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
